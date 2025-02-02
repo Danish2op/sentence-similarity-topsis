@@ -126,7 +126,7 @@ The models are ranked from best to worst based on the TOPSIS scores.
 
 The following graph displays the TOPSIS ranking of the sentence similarity models. The **x-axis** represents the model names, and the **y-axis** represents the TOPSIS score. Higher scores indicate better performance.
 
-![TOPSIS Ranking of Sentence Similarity Models](topsis_ranking_plot (1).png)
+![TOPSIS Ranking](https://github.com/Danish2op/sentence-similarity-topsis/raw/main/topsis_ranking_plot%20(1).png)
 
 ## Usage
 
